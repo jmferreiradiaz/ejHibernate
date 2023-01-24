@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ejHibernate.iml" filepath="$PROJECT_DIR$/.idea/ejHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejHibernate/ejHibernate.iml" filepath="$PROJECT_DIR$/ejHibernate/ejHibernate.iml" />
     </modules>
   </component>
 </project>
